@@ -18,10 +18,10 @@
 
 ## :calendar: Plano de Ação (Clique na Sprint desejada para verificar o seu andamento) 
 
-- [ ] Kick-off - 21/08 a 28/03 - Concluído :heavy_check_mark:
-- [ ] [Sprint 1](https://github.com/NewInoDevs/NewInoDevs/blob/1º-Sprint/README.md) - 04/09 a 24/09 - Concluído :heavy_check_mark:
-- [ ] [Sprint 2](https://github.com/NewInoDevs/NewInoDevs/blob/2ºSprint/README.md) - 25/09 a 15/10 - Concluído :heavy_check_mark:
-- [ ] [Sprint 3](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 06/11 a 26/11 - Concluído :heavy_check_mark:
+- [ ] Kick-off - 21/08 a 28/03 - 
+- [ ] [Sprint 1](https://github.com/NewInoDevs/NewInoDevs/blob/1º-Sprint/README.md) - 04/09 a 24/09 - 
+- [ ] [Sprint 2](https://github.com/NewInoDevs/NewInoDevs/blob/2ºSprint/README.md) - 25/09 a 15/10 - 
+- [ ] [Sprint 3](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 06/11 a 26/11 - 
 - [ ] Feira de Soluções - 15/06 
 
 ## :dart: Prosposta
@@ -53,7 +53,9 @@ Em espera
 
 ## Backlog
 
-<h1 align="center"><img src = "https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Artefatos/Backlog3.png" width="80%"></h1>
+<h1 align="center">
+<!-- <img src = "https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Artefatos/Backlog3.png" width="80%"> -->
+</h1>
 
 <h5 align="center">Prioridade:<br>
 🔴- Alta,
@@ -61,7 +63,9 @@ Em espera
 🟢- Baixa,
 🔵- Seria bom ter.<br></h5>
 
-<h1 align="center"><img src = "https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Artefatos/TimeLine.png" width="80%"></h1>
+<h1 align="center">
+<!-- <img src = "https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Artefatos/TimeLine.png" width="80%"> -->
+</h1>
 <br>
 
 <br>
