@@ -21,8 +21,9 @@
 - [ ] Kick-off - 21/08 a 28/03 - 
 - [ ] [Sprint 1](https://github.com/NewInoDevs/NewInoDevs/blob/1º-Sprint/README.md) - 04/09 a 24/09 - 
 - [ ] [Sprint 2](https://github.com/NewInoDevs/NewInoDevs/blob/2ºSprint/README.md) - 25/09 a 15/10 - 
-- [ ] [Sprint 3](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 06/11 a 26/11 - 
-- [ ] Feira de Soluções - 15/06 
+- [ ] [Sprint 3](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 16/10 a 05/11 - 
+- [ ] [Sprint 4](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 06/11 a 26/11 - 
+- [ ] Feira de Soluções - 12/12 
 
 ## :dart: Prosposta
 
