@@ -18,12 +18,12 @@
 
 ## :calendar: Plano de Ação (Clique na Sprint desejada para verificar o seu andamento) 
 
-- [x] Kick-off - 21/08 a 28/03 - 
-- [ ] [Sprint 1](https://github.com/NewInoDevs/NewInoDevs/blob/1º-Sprint/README.md) - 04/09 a 24/09 - 
-- [ ] [Sprint 2](https://github.com/NewInoDevs/NewInoDevs/blob/2ºSprint/README.md) - 25/09 a 15/10 - 
-- [ ] [Sprint 3](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 16/10 a 05/11 - 
-- [ ] [Sprint 4](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 06/11 a 26/11 - 
-- [ ] Feira de Soluções - 12/12 
+* [x] Kick-off - 21/08 a 28/03 
+* [ ] [Sprint 1](https://github.com/NewInoDevs/NewInoDevs/blob/1º-Sprint/README.md) - 04/09 a 24/09 
+* [ ] [Sprint 2](https://github.com/NewInoDevs/NewInoDevs/blob/2ºSprint/README.md) - 25/09 a 15/10 
+* [ ] [Sprint 3](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 16/10 a 05/11 
+* [ ] [Sprint 4](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 06/11 a 26/11 
+* [ ] Feira de Soluções - 12/12 
 
 ## :dart: Prosposta
 
@@ -36,18 +36,23 @@ Em espera
 ## :pushpin: Requisitos
 
 ### Requisitos Funcionais
-1. &nbsp; a
-2. &nbsp; b
-3. &nbsp; c
-4. &nbsp; d
-5. &nbsp; e
-6. &nbsp; f <br>
+1. &nbsp; Registro e Autentificação 
+2. &nbsp; Cadastro de Empresa
+3. &nbsp; Inserção de Descrição de Cargo
+4. &nbsp; Notificação do Entendimento
+5. &nbsp; Disparo de Web Scraping
+6. &nbsp; Notificação de Resultados
+7. &nbsp; Apresentação dos Resultados
+8. &nbsp; Base de Cha <br>
 
 
 ### Requisitos Não Funcionais
-1. &nbsp; g
-2. &nbsp; h
-3. &nbsp; i
+1. &nbsp; Performance
+2. &nbsp; Segurança
+3. &nbsp; Escalabilidade
+4. &nbsp; Compatibilidade
+5. &nbsp; Resiliência
+6. &nbsp; Privacidade
 <br>
  
 
@@ -62,7 +67,7 @@ Em espera
 🔴- Alta,
 🟡- Média,
 🟢- Baixa,
-🔵- Seria bom ter.<br></h5>
+<br></h5>
 
 <h1 align="center">
 <!-- <img src = "https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Artefatos/TimeLine.png" width="80%"> -->
