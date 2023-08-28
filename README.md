@@ -18,7 +18,7 @@
 
 ## :calendar: Plano de Ação (Clique na Sprint desejada para verificar o seu andamento) 
 
-- [ ] Kick-off - 21/08 a 28/03 - 
+- [ X ] Kick-off - 21/08 a 28/03 - 
 - [ ] [Sprint 1](https://github.com/NewInoDevs/NewInoDevs/blob/1º-Sprint/README.md) - 04/09 a 24/09 - 
 - [ ] [Sprint 2](https://github.com/NewInoDevs/NewInoDevs/blob/2ºSprint/README.md) - 25/09 a 15/10 - 
 - [ ] [Sprint 3](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 16/10 a 05/11 - 
