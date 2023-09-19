@@ -27,7 +27,7 @@
 
 ## :dart: Prosposta
 
-Em espera 
+<p align='justify'> Deve-se desenvolver uma aplicação para otimizar o processo de recrutamento e seleção de candidatos dentro das empresas - mediante login e autentificação em múltiplos fatores e com a inserção da descrição do cargo desejado. A partir do CHA deverá ser feito um Web Scraping em uma rede social de recrutamentos e retornar os candidatos em um rank de acordo com a aderência do perfil do cargo. Também deverá ser enviado uma notificação às empresas quando os resultados estiverem disponíveis.
 
 
 > [Documentação](https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Documentação/doc3.pdf)
@@ -35,24 +35,24 @@ Em espera
 
 ## :pushpin: Requisitos
 
-### Requisitos Funcionais
-1. &nbsp; Registro e Autentificação 
-2. &nbsp; Cadastro de Empresa
-3. &nbsp; Inserção de Descrição de Cargo
-4. &nbsp; Notificação do Entendimento
-5. &nbsp; Disparo de Web Scraping
-6. &nbsp; Notificação de Resultados
-7. &nbsp; Apresentação dos Resultados
-8. &nbsp; Base de Cha <br>
+### Requisitos Funcionais:
+1. &nbsp; Registro e Autentificação; 
+2. &nbsp; Cadastro de Empresa;
+3. &nbsp; Inserção de Descrição de Cargo;
+4. &nbsp; Notificação do Entendimento;
+5. &nbsp; Disparo de Web Scraping;
+6. &nbsp; Notificação de Resultados;
+7. &nbsp; Apresentação dos Resultados;
+8. &nbsp; Base de CHA. <br>
 
 
-### Requisitos Não Funcionais
-1. &nbsp; Performance
-2. &nbsp; Segurança
-3. &nbsp; Escalabilidade
-4. &nbsp; Compatibilidade
-5. &nbsp; Resiliência
-6. &nbsp; Privacidade
+### Requisitos Não Funcionais:
+1. &nbsp; Performance;
+2. &nbsp; Segurança;
+3. &nbsp; Escalabilidade;
+4. &nbsp; Compatibilidade;
+5. &nbsp; Resiliência;
+6. &nbsp; Privacidade.
 <br>
  
 
