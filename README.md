@@ -1,58 +1,58 @@
-### <p align="center">Aprendizado por projeto integrador-FATEC-SJC </center>
+### <p align="center">Learning by integrative project-FATEC-SJC </center>
 
 # <p align="center"> InoDevs </center> 
 <hr>
 
 <p align="center">
-  <a href ="#calendar-plano-de-ação-clique-na-sprint-desejada-para-verificar-o-seu-andamento"> Plano de Ação </a>  • 
-  <a href ="#dart-prosposta">  Proposta </a>  • 
-  <a href ="#pushpin-requisitos"> Requisitos </a>  • 
-  <a href ="#computer-wireframe"> Wireframe</a>  • 
-  <a href ="#rocket-tecnologias-utilizadas">  Tecnologias Utilizadas </a>  • 
-   <a href ="#manual-de-instalação"> Manual de instalação</a> • 
+  <a href ="#calendar-action-plan-click-on-the-desired-sprint-to-check-its-progress"> Action Plan </a>  • 
+  <a href ="#dart-prosposta">  Proposal </a>  • 
+  <a href ="#pushpin-requisitos"> Requirements </a>  • 
+  <a href ="#computer-wireframe"> Wireframe </a>  • 
+  <a href ="#rocket-tecnologias-utilizadas">  Technologies used </a>  • 
+   <a href ="#manual-de-instalação"> Installation guide </a> • 
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
 
 </p>
 <hr>
 <br>
 
-## :calendar: Plano de Ação (Clique na Sprint desejada para verificar o seu andamento) 
+## :calendar: Action Plan (Click on the desired Sprint to check its progress)
 
 * [x] Kick-off - 21/08 a 28/03 
-* [ ] [Sprint 1](https://github.com/NewInoDevs/NewInoDevs/blob/1º-Sprint/README.md) - 04/09 a 24/09 
-* [ ] [Sprint 2](https://github.com/NewInoDevs/NewInoDevs/blob/2ºSprint/README.md) - 25/09 a 15/10 
-* [ ] [Sprint 3](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 16/10 a 05/11 
-* [ ] [Sprint 4](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 06/11 a 26/11 
-* [ ] Feira de Soluções - 12/12 
+* [ ] [Sprint 1](https://github.com/NewInoDevs/NewInoDevs/blob/1º-Sprint/README.md) - 04/09 - 24/09 
+* [ ] [Sprint 2](https://github.com/NewInoDevs/NewInoDevs/blob/2ºSprint/README.md) - 25/09 - 15/10 
+* [ ] [Sprint 3](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 16/10 - 05/11 
+* [ ] [Sprint 4](https://github.com/NewInoDevs/NewInoDevs/tree/3ºSprint) - 06/11 - 26/11 
+* [ ] Solutions Fair - 12/12 
 
-## :dart: Prosposta
+## :dart: Proposal
 
-<p align='justify'> Deve-se desenvolver uma aplicação para otimizar o processo de recrutamento e seleção de candidatos dentro das empresas - mediante login e autentificação em múltiplos fatores e com a inserção da descrição do cargo desejado. A partir do CHA deverá ser feito um Web Scraping em uma rede social de recrutamentos e retornar os candidatos em um rank de acordo com a aderência do perfil do cargo. Também deverá ser enviado uma notificação às empresas quando os resultados estiverem disponíveis.
+<p align='justify'> Develop an application to optimize the process of recruiting and selecting candidates within companies, through login and multi-factor authentication and by entering the desired job description. Based on the CHA (Competencies, Skills and Attitudes) of each vacancy, a web scraping should be carried out on a social recruitment network and the candidates should be ranked according to their adherence to the job profile. Companies will also be notified when the results are available.
 
 
 > [Documentação](https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Documentação/doc3.pdf)
 <br>
 
-## :pushpin: Requisitos
+## :pushpin: Requirements
 
-### Requisitos Funcionais:
-1. &nbsp; Registro e Autentificação; 
-2. &nbsp; Cadastro de Empresa;
-3. &nbsp; Inserção de Descrição de Cargo;
-4. &nbsp; Notificação do Entendimento;
-5. &nbsp; Disparo de Web Scraping;
-6. &nbsp; Notificação de Resultados;
-7. &nbsp; Apresentação dos Resultados;
-8. &nbsp; Base de CHA. <br>
+### Functional requirements:
+1. &nbsp; Registration and Authentication; 
+2. &nbsp; Company Registration;
+3. &nbsp; Inserting a Job Description;
+4. &nbsp; Notification of Understanding;
+5. &nbsp; Web Scraping;
+6. &nbsp; Results Notification;
+7. &nbsp; Presentation of results;
+8. &nbsp;CHA base. <br>
 
 
 ### Requisitos Não Funcionais:
 1. &nbsp; Performance;
-2. &nbsp; Segurança;
-3. &nbsp; Escalabilidade;
-4. &nbsp; Compatibilidade;
-5. &nbsp; Resiliência;
-6. &nbsp; Privacidade.
+2. &nbsp; Security;
+3. &nbsp; Scalability;
+4. &nbsp; Compatibility;
+5. &nbsp; Resilience;
+6. &nbsp; Privacy.
 <br>
  
 
@@ -78,13 +78,13 @@
 
 ## :computer: Wireframe
 
-<!-- Acesse o link para visualizar:
+<!-- Click on the link to view:
 > * [No Figma.](https://www.figma.com/file/J7tcAZx38a8CymG7RXSG7J/Untitled?node-id=0%3A1)
 > * [Imagens na documentação.](https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Documentação/doc3.pdf) -->
   
   <br>
      
-## :rocket: Tecnologias Utilizadas
+## :rocket: Technologies used
 
 * **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
 * **Back-end:** Java, Spring e MySQL;
