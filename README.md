@@ -5,11 +5,11 @@
 
 <p align="center">
   <a href ="#calendar-action-plan-click-on-the-desired-sprint-to-check-its-progress"> Action Plan </a>  • 
-  <a href ="#dart-prosposta">  Proposal </a>  • 
-  <a href ="#pushpin-requisitos"> Requirements </a>  • 
+  <a href ="#dart-proposal">  Proposal </a>  • 
+  <a href ="#pushpin-requirements"> Requirements </a>  • 
   <a href ="#computer-wireframe"> Wireframe </a>  • 
-  <a href ="#rocket-tecnologias-utilizadas">  Technologies used </a>  • 
-   <a href ="#manual-de-instalação"> Installation guide </a> • 
+  <a href ="#rocket-technologies-used">  Technologies used </a>  • 
+   <a href ="#installation-guide"> Installation guide </a> • 
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
 
 </p>
@@ -46,7 +46,7 @@
 8. &nbsp;CHA base. <br>
 
 
-### Requisitos Não Funcionais:
+### Non-functional requirements:
 1. &nbsp; Performance;
 2. &nbsp; Security;
 3. &nbsp; Scalability;
@@ -63,10 +63,10 @@
 <!-- <img src = "https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Artefatos/Backlog3.png" width="80%"> -->
 </h1>
 
-<h5 align="center">Prioridade:<br>
-🔴- Alta,
-🟡- Média,
-🟢- Baixa,
+<h5 align="center">Priority:<br>
+🔴- High,
+🟡- Medium,
+🟢- Low,
 <br></h5>
 
 <h1 align="center">
@@ -80,31 +80,31 @@
 
 <!-- Click on the link to view:
 > * [No Figma.](https://www.figma.com/file/J7tcAZx38a8CymG7RXSG7J/Untitled?node-id=0%3A1)
-> * [Imagens na documentação.](https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Documentação/doc3.pdf) -->
+> * [Images in documentation.](https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Documentação/doc3.pdf) -->
   
   <br>
      
 ## :rocket: Technologies used
 
-* **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
-* **Back-end:** Java, Spring e MySQL;
-* **Front-end:**  JavaScript e Vue;
-* **Ferramentas:** GitHub, VS Code, eclipse, Canva, Excel e Figma .
+* **Meetings and presentations:** Discord, WhatsApp and Microsoft Teams;
+* **Back-end:** Java, Spring and MySQL;
+* **Front-end:**  JavaScript and Vue;
+* **Tools :** GitHub, VS Code, eclipse, Canva, Excel and Figma .
 <br>
   
-<!--## :gear: Execução 
+<!--## :gear: Execution 
 <h1 align="center"><img src = " " width="100%" height="580px"></h1>
 <br>-->
 
- ## Manual de instalação
+ ## Installation guide
 
-[Manual pdf](https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Manual-Instalacao.pdf)
+[Guide pdf](https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Manual-Instalacao.pdf)
 <br>
 
 
 ## :mortar_board: Dev Team
 
-| Aluno(a)         | Função           | GitHub                                                         | LinkedIn                                              |
+| Student         | Function           | GitHub                                                         | LinkedIn                                              |
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
 |__Anderson Lira__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/alira1984)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/anderson-lira-ads) |
 |__Gustavo Kenji Ando__  | *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/GustavoAndo)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/gustavo-ando-054414209/) |
@@ -119,4 +119,4 @@
 
 <h1 align="center"></h1>
 
-##### <p align="center"><img src="https://cdn.discordapp.com/attachments/826526043917647912/883363052425195560/faTec.png" width="20" height="20" /> Projeto Integrador 2023 - Fatec São José dos Campos </center>
+##### <p align="center"><img src="https://cdn.discordapp.com/attachments/826526043917647912/883363052425195560/faTec.png" width="20" height="20" /> Integrating Project 2023 - Fatec São José dos Campos </center>
