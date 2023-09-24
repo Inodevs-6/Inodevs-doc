@@ -10,8 +10,8 @@
   <a href ="#computer-prototype"> Prototype </a>  • 
   <a href ="#rocket-technologies-used">  Technologies used </a>  • 
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
-
 </p>
+
 <hr>
 <br>
 
@@ -28,11 +28,6 @@
 
 <p align='justify'> Develop an application to optimize the process of recruiting and selecting candidates within companies, through login and multi-factor authentication and by entering the desired job description. Based on the CHA (Competencies, Skills and Attitudes) of each vacancy, a web scraping should be carried out on a social recruitment network and the candidates should be ranked according to their adherence to the job profile. Companies will also be notified when the results are available.
 
-## Repositories:
-* :desktop_computer: [Front](https://github.com/Inodevs-6/Inodevs-front-vue)
-* :gear:[Back-End Machine Learning](https://github.com/Inodevs-6/Inodevs-back-machine-learning)
-* :gear:[Back-End Spring](https://github.com/Inodevs-6/Inodevs-back-spring)
-
 ## :pushpin: Requirements
 
 ### Functional requirements:
@@ -43,8 +38,7 @@
 5. &nbsp; Web Scraping;
 6. &nbsp; Results Notification;
 7. &nbsp; Presentation of results;
-8. &nbsp;CHA base. <br>
-
+8. &nbsp; CHA base. <br>
 
 ### Non-functional requirements:
 1. &nbsp; Performance;
@@ -54,24 +48,54 @@
 5. &nbsp; Resilience;
 6. &nbsp; Privacy.
 <br>
- 
 
+## Repositories:
+* :desktop_computer: [Front](https://github.com/Inodevs-6/Inodevs-front-vue)
+* :gear:[Back-End Machine Learning](https://github.com/Inodevs-6/Inodevs-back-machine-learning)
+* :gear:[Back-End Spring](https://github.com/Inodevs-6/Inodevs-back-spring)
 
-## Backlog
+## Sprint Epic
 
-<h1 align="center">
-<!-- <img src = "https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Artefatos/Backlog3.png" width="80%"> -->
-</h1>
+| Sprint | Epic |
+| -------| --------- |
+| Sprint 1 | Job vacancy registration with automated CHA description |
+| Sprint 2 | Candidates ranking using match percentage |
+| Sprint 3 | Company registration, autentication and settings |
+| Sprint 4 | Two-factor authentication and notifications |
 
-<h5 align="center">Priority:<br>
+## Product Backlog
+
+- [X] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 1:**  Job registration with automated CHA description
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Template of Job Registration
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg)  Database of Job Registrationn
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) ChatGPT Integration
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg)  Web Scapping with Mockup Candidate Data
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Artificial Intelligence Modeling to Match Candidate and Descprition Job
+- [] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 2:** Candidates ranking using match percentage
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Preparate Candidate Data
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Candidate Ranking Template
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Match with Percentage
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Job Registrations List Template
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Web Scrapping
+- [] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 3:**  Company registration, autentication and settings
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Template of Company Registration
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Database of Company Registration
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Company Autentication
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Login Template
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Settings Security Panel
+- [] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 4:** Two-factor authentication and notifications
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Two-factor Autentication Function
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Two-factor Autentication Template
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Notification of Understanding
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Results Notification
+- [] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg)  Notification Template
+
+<!-- <h5 align="center">Priority:<br>
 🔴- High,
 🟡- Medium,
-🟢- Low,
-<br></h5>
+🟢- Low
+<br></h5> -->
 
-<h1 align="center">
-<!-- <img src = "https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Artefatos/TimeLine.png" width="80%"> -->
-</h1>
 <br>
 
 <br>
@@ -83,9 +107,9 @@
 ## :rocket: Technologies used:
 
 * **Meetings and presentations:** Discord, WhatsApp and Microsoft Teams;
-* **Back-end:** Java, Spring, Python and MySQL;
+* **Back-end:** Java, Spring, Python, Django and MySQL;
 * **Front-end:**  JavaScript and Vue;
-* **Tools :** GitHub, VS Code, eclipse, Canva, Excel and Figma .
+* **Tools :** GitHub, VS Code, Canva, Excel and Figma.
 <br>
   
 <!--## :gear: Execution
