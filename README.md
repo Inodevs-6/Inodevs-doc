@@ -77,14 +77,10 @@
 <br>
 
 ## :computer: Prototype
-
-<!-- Click on the link to view:
-> * [No Figma.](https://www.figma.com/file/OdUgc70RDTdUcIjIGD5TNT/Untitled?type=design&node-id=0%3A1&mode=design&t=kLuRTSy4um2cEiJH-1)
-> * [Images in documentation.](https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Documentação/doc3.pdf) -->
-  
+ * [Figma](https://www.figma.com/file/OdUgc70RDTdUcIjIGD5TNT/Untitled?type=design&node-id=0%3A1&mode=design&t=kLuRTSy4um2cEiJH-1) 
   <br>
      
-## :rocket: Technologies used
+## :rocket: Technologies used:
 
 * **Meetings and presentations:** Discord, WhatsApp and Microsoft Teams;
 * **Back-end:** Java, Spring, Python and MySQL;
@@ -92,7 +88,7 @@
 * **Tools :** GitHub, VS Code, eclipse, Canva, Excel and Figma .
 <br>
   
-<!--## :gear: Execution 
+<!--## :gear: Execution
 <h1 align="center"><img src = " " width="100%" height="580px"></h1>
 <br>-->
 
