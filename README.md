@@ -7,9 +7,8 @@
   <a href ="#calendar-action-plan-click-on-the-desired-sprint-to-check-its-progress"> Action Plan </a>  • 
   <a href ="#dart-proposal">  Proposal </a>  • 
   <a href ="#pushpin-requirements"> Requirements </a>  • 
-  <a href ="#computer-wireframe"> Wireframe </a>  • 
+  <a href ="#computer-prototype"> Prototype </a>  • 
   <a href ="#rocket-technologies-used">  Technologies used </a>  • 
-   <a href ="#installation-guide"> Installation guide </a> • 
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
 
 </p>
@@ -29,9 +28,10 @@
 
 <p align='justify'> Develop an application to optimize the process of recruiting and selecting candidates within companies, through login and multi-factor authentication and by entering the desired job description. Based on the CHA (Competencies, Skills and Attitudes) of each vacancy, a web scraping should be carried out on a social recruitment network and the candidates should be ranked according to their adherence to the job profile. Companies will also be notified when the results are available.
 
-
-> [Documentação](https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Documentação/doc3.pdf)
-<br>
+## Repositories:
+* :desktop_computer: [Front](https://github.com/Inodevs-6/Inodevs-front-vue)
+* :gear:[Back-End Machine Learning](https://github.com/Inodevs-6/Inodevs-back-machine-learning)
+* :gear:[Back-End Spring](https://github.com/Inodevs-6/Inodevs-back-spring)
 
 ## :pushpin: Requirements
 
@@ -76,10 +76,10 @@
 
 <br>
 
-## :computer: Wireframe
+## :computer: Prototype
 
 <!-- Click on the link to view:
-> * [No Figma.](https://www.figma.com/file/J7tcAZx38a8CymG7RXSG7J/Untitled?node-id=0%3A1)
+> * [No Figma.](https://www.figma.com/file/OdUgc70RDTdUcIjIGD5TNT/Untitled?type=design&node-id=0%3A1&mode=design&t=kLuRTSy4um2cEiJH-1)
 > * [Images in documentation.](https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Documentação/doc3.pdf) -->
   
   <br>
@@ -87,7 +87,7 @@
 ## :rocket: Technologies used
 
 * **Meetings and presentations:** Discord, WhatsApp and Microsoft Teams;
-* **Back-end:** Java, Spring and MySQL;
+* **Back-end:** Java, Spring, Python and MySQL;
 * **Front-end:**  JavaScript and Vue;
 * **Tools :** GitHub, VS Code, eclipse, Canva, Excel and Figma .
 <br>
@@ -96,10 +96,6 @@
 <h1 align="center"><img src = " " width="100%" height="580px"></h1>
 <br>-->
 
- ## Installation guide
-
-[Guide pdf](https://github.com/NewInoDevs/NewInoDevs/blob/3ºSprint/Manual-Instalacao.pdf)
-<br>
 
 
 ## :mortar_board: Dev Team
