@@ -1,0 +1,9 @@
+[submodule "Inodevs-back-machine-learning"]
+	path = Inodevs-back-machine-learning
+	url = https://github.com/Inodevs-6/Inodevs-back-machine-learning.git
+[submodule "Inodevs-back-spring"]
+	path = Inodevs-back-spring
+	url = https://github.com/Inodevs-6/Inodevs-back-spring.git
+[submodule "Inodevs-front-vue"]
+	path = Inodevs-front-vue
+	url = https://github.com/Inodevs-6/Inodevs-front-vue.git
