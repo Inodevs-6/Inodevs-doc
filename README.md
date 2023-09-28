@@ -47,7 +47,6 @@
 4. &nbsp; Compatibility;
 5. &nbsp; Resilience;
 6. &nbsp; Privacy.
-<br>
 
 ## Repositories:
 * :desktop_computer: [Front](https://github.com/Inodevs-6/Inodevs-front-vue)
@@ -96,27 +95,23 @@
 🟢- Low
 <br></h5> -->
 
-<br>
-
-<br>
-
 ## :computer: Prototype
  * [Figma](https://www.figma.com/file/OdUgc70RDTdUcIjIGD5TNT/Untitled?type=design&node-id=0%3A1&mode=design&t=kLuRTSy4um2cEiJH-1) 
-  <br>
      
+
+## :arrow_forward: Video Sprint Review 1:
+> [Click here to access the video on Youtube](https://youtu.be/HtutAqmrki8)
+
 ## :rocket: Technologies used:
 
 * **Meetings and presentations:** Discord, WhatsApp and Microsoft Teams;
 * **Back-end:** Java, Spring, Python, Django and MySQL;
 * **Front-end:**  JavaScript and Vue;
 * **Tools :** GitHub, VS Code, Canva, Excel and Figma.
-<br>
   
 <!--## :gear: Execution
 <h1 align="center"><img src = " " width="100%" height="580px"></h1>
 <br>-->
-
-
 
 ## :mortar_board: Dev Team
 

@@ -18,6 +18,9 @@ The objective of this Sprint was develop the job vacancy registration with autom
 - [X] Web Scapping with Mockup Candidate Data
 - [X] Artificial Intelligence Modeling to Match Candidate and Descprition Job
 
+# :arrow_forward: Video Sprint Review 1:
+[Click here to access the video on Youtube](https://youtu.be/HtutAqmrki8)
+
 ## :iphone: Front-end 
 * [Click here to access the Front-End repository in First Sprint](https://github.com/inodevs-6/Inodevs-front-vue/releases/tag/v1.0)
 
@@ -26,7 +29,7 @@ The objective of this Sprint was develop the job vacancy registration with autom
 ##
 
 ## :gear: Back-end (Spring)
-* [Click here to access the Back-End Spring repository in First Sprint](https://github.com/inodevs-6/Inodevs-back-spring/releases/tag/v1.0)
+> [Click here to access the Back-End Spring repository in First Sprint](https://github.com/inodevs-6/Inodevs-back-spring/releases/tag/v1.0)
 ##
 
 ## :arrow_forward: Execution
