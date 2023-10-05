@@ -18,7 +18,7 @@
 ## :calendar: Action Plan (Click on the desired Sprint to check its progress)
 
 * [x] Kick-off - 21/08 a 28/03 
-* [ ] [Sprint 1](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT1.md) - 04/09 - 24/09 
+* [x] [Sprint 1](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT1.md) - 04/09 - 24/09 
 * [ ] [Sprint 2](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT2.md) - 25/09 - 15/10 
 * [ ] [Sprint 3](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT3.md) - 16/10 - 05/11 
 * [ ] [Sprint 4](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT4.mdt) - 06/11 - 26/11 
@@ -26,7 +26,7 @@
 
 ## :dart: Proposal
 
-<p align='justify'> Develop an application to optimize the process of recruiting and selecting candidates within companies, through login and multi-factor authentication and by entering the desired job description. Based on the CHA (Competencies, Skills and Attitudes) of each vacancy, a web scraping should be carried out on a social recruitment network and the candidates should be ranked according to their adherence to the job profile. Companies will also be notified when the results are available.
+<p align='justify'> Develop an application to optimize the process of recruiting and selecting candidates within companies, through login and multi-factor authentication and by entering the job description. Based on the CHA (Competencies, Skills and Attitudes) of each position, a web scraping should be carried out on a social recruitment network and the candidates should be ranked according to their adherence to the job profile. Companies will also be notified when the results are available.
 
 ## :pushpin: Requirements
 
@@ -37,7 +37,7 @@
 4. &nbsp; Notification of Understanding;
 5. &nbsp; Web Scraping;
 6. &nbsp; Results Notification;
-7. &nbsp; Presentation of results;
+7. &nbsp; Results Presentation;
 8. &nbsp; CHA base. <br>
 
 ### Non-functional requirements:
@@ -57,37 +57,36 @@
 
 | Sprint | Epic |
 | -------| --------- |
-| Sprint 1 | Job vacancy registration with automated CHA description |
+| Sprint 1 | Job position registration with automated CHA description |
 | Sprint 2 | Candidates ranking using match percentage |
 | Sprint 3 | Company registration, autentication and settings |
 | Sprint 4 | Two-factor authentication and notifications |
 
 ## Product Backlog
 
-- [X] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 1:**  Job registration with automated CHA description
+- [X] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 1:**  Position registration with automated CHA description
 - [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Artificial Intelligence Modeling to Match Candidate and Descprition Job
 - [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg)  Web Scapping with Mockup Candidate Data
 - [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) ChatGPT Integration
-- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg)  Database of Job Registration
-- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Template of Job Registration
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Position Registration Database
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Position Registration Template to Machine Learning
 - [ ] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 2:** Candidates ranking using match percentage
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Match with Percentage
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Preparate Candidate Data
+- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Match between position and candidates with its match percentage
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Web Scrapping
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Candidate Ranking Template
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Job Registrations List Template
+- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Position Registrations List Template
 - [ ] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 3:**  Company registration, autentication and settings
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Company Autentication
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Login Template
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Database of Company Registration
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Template of Company Registration
+- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Company Registration Database 
+- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Company Registration Template
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Settings Security Panel
 - [ ] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 4:** Two-factor authentication and notifications
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Two-factor Autentication Function
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Two-factor Autentication Template
+- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Notification Template
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Results Notification
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Notification of Understanding
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg)  Notification Template
+- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) knowledge Notification 
 
 <!-- <h5 align="center">Priority:<br>
 🔴- High,
