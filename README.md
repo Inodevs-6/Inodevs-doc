@@ -20,7 +20,7 @@
 
 - [x] Kick-off - 21/08 a 28/03
 - [x] [Sprint 1](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT1.md) - 04/09 - 24/09
-- [ ] [Sprint 2](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT2.md) - 25/09 - 15/10
+- [x] [Sprint 2](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT2.md) - 25/09 - 15/10
 - [ ] [Sprint 3](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT3.md) - 16/10 - 05/11
 - [ ] [Sprint 4](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT4.mdt) - 06/11 - 26/11
 - [ ] Solutions Fair - 12/12
