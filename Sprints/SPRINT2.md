@@ -19,15 +19,15 @@ The objective of Sprint was to develop Candidate Ranking. This functionality inv
 
 ## :iphone: Front-end
 
-- [Click here to access the Front-End repository in First Sprint](https://github.com/inodevs-6/Inodevs-front-vue/releases/tag/v2.0)
+- [Click here to access the Front-End repository in Second Sprint](https://github.com/inodevs-6/Inodevs-front-vue/releases/tag/v2.0)
 
 ## :gear: Back-end (Python)
 
-- [Click here to access the Back-End Machine Learning repository in First Sprint](https://github.com/inodevs-6/Inodevs-back-machine-learning/releases/tag/v2.0)
+- [Click here to access the Back-End Machine Learning repository in Second Sprint](https://github.com/inodevs-6/Inodevs-back-machine-learning/releases/tag/v2.0)
 
 ## :gear: Back-end (Spring)
 
-> [Click here to access the Back-End Spring repository in First Sprint](https://github.com/inodevs-6/Inodevs-back-spring/releases/tag/v2.0)
+> [Click here to access the Back-End Spring repository in second Sprint](https://github.com/inodevs-6/Inodevs-back-spring/releases/tag/v2.0)
 
 ##
 
