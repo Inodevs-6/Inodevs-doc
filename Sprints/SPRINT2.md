@@ -1,6 +1,6 @@
 # Sprint 2
 
-The objective of Sprint was to develop Candidate Ranking. This functionality involves a list of all vacancies registered in the company. From each vacancy, we generate a ranking of the 8 best candidates, classified by percentage and we also add new improvements to the load register, thus enabling users to improve and edit their searches on Chatgpt
+The objective of Sprint was to develop Candidate Ranking. This functionality involves a list of all vacancies registered in the company. From each position job, we generate a ranking of the 8 best candidates, classified by percentage and we also add new improvements to the load register, thus enabling users to improve and edit their searches on Chatgpt
 
  <!-- ## :page_with_curl: Backlog da Sprint 1
 <h1 align="center"><img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-1/Imagens/backlog_sprint1.png" width="45%"></h1>
@@ -12,34 +12,32 @@ The objective of Sprint was to develop Candidate Ranking. This functionality inv
 
 ## :page_with_curl: Sprint 2 Backlog
 
-- [x] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Match between position and candidates with its match percentage
-- [x] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Candidate Ranking Template
-- [x] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Position Registrations List Template
-- [x] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) New Features in job registration
+- [x] Match between position and candidates with its match percentage
+- [x] Candidate Ranking Template
+- [x] Position Registrations List Template
+- [x] New Features in job registration
 
 ## :iphone: Front-end
 
-- [Click here to access the Front-End repository in First Sprint](https://github.com/inodevs-6/Inodevs-front-vue/releases/tag/v1.1)
+- [Click here to access the Front-End repository in First Sprint](https://github.com/inodevs-6/Inodevs-front-vue/releases/tag/v2.0)
 
 ## :gear: Back-end (Python)
 
-- [Click here to access the Back-End Machine Learning repository in First Sprint](https://github.com/inodevs-6/Inodevs-back-machine-learning/releases/tag/v1.1)
-
-##
+- [Click here to access the Back-End Machine Learning repository in First Sprint](https://github.com/inodevs-6/Inodevs-back-machine-learning/releases/tag/v2.0)
 
 ## :gear: Back-end (Spring)
 
-> [Click here to access the Back-End Spring repository in First Sprint](https://github.com/inodevs-6/Inodevs-back-spring/releases/tag/v1.1)
+> [Click here to access the Back-End Spring repository in First Sprint](https://github.com/inodevs-6/Inodevs-back-spring/releases/tag/v2.0)
 
 ##
 
 ## :arrow_forward: Execution
 
-### Job vacancy registration with automated CHA description
+### Candidates ranking using match percentage
 
-<img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/images/execution-sprint1.gif" width="90%">
+<img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/images/execution-sprint2.gif" width="90%">
 
-> [Click here to watch the execution better](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/images/execution-sprint1.gif)
+> [Click here to watch the execution better](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/images/execution-sprint2.gif)
 
 ## :mortar_board: Dev Team
 

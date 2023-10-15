@@ -26,7 +26,6 @@ The objective of this Sprint was develop the job vacancy registration with autom
 
 ## :gear: Back-end (Python)
 * [Click here to access the Back-End Machine Learning repository in First Sprint](https://github.com/inodevs-6/Inodevs-back-machine-learning/releases/tag/v1.0)
-##
 
 ## :gear: Back-end (Spring)
 > [Click here to access the Back-End Spring repository in First Sprint](https://github.com/inodevs-6/Inodevs-back-spring/releases/tag/v1.0)
@@ -34,7 +33,7 @@ The objective of this Sprint was develop the job vacancy registration with autom
 
 ## :arrow_forward: Execution
 
-### Job vacancy registration with automated CHA description
+### Job position registration with automated CHA description
 <img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/images/execution-sprint1.gif" width="90%">
 
 > [Click here to watch the execution better](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/images/execution-sprint1.gif)
