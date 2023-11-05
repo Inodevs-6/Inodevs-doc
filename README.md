@@ -63,17 +63,6 @@
 | -------- | -------------------------------------------------------- |
 | Sprint 1 | Job position registration with automated CHA description |
 | Sprint 2 | Candidates ranking using match percentage                |
-| Sprint 3 | Company registration, autentication and settings         |
-| Sprint 4 | Two-factor authentication and notifications              |
-
-## Product Backlog
-
-## Sprint Epic
-
-| Sprint   | Epic                                                     |
-| -------- | -------------------------------------------------------- |
-| Sprint 1 | Job position registration with automated CHA description |
-| Sprint 2 | Candidates ranking using match percentage                |
 | Sprint 3 | Company registration and authentication                  |
 | Sprint 4 | Two-factor authentication and notifications              |
 
@@ -118,9 +107,11 @@
 
 - [Figma](https://www.figma.com/file/OdUgc70RDTdUcIjIGD5TNT/Untitled?type=design&node-id=0%3A1&mode=design&t=kLuRTSy4um2cEiJH-1)
 
-## :arrow_forward: Video Sprint Review 1:
+<!-- 
+# :arrow_forward: Video Sprint Review 1:
 
 > [Click here to access the video on Youtube](https://youtu.be/HtutAqmrki8)
+-->
 
 ## :rocket: Technologies used:
 
