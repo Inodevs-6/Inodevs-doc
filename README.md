@@ -85,7 +85,7 @@
 - [x] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Company Registration Database
 - [x] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Company Registration Template
 - [x] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Settings Security Panel
-- [x] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 4:** Two-factor authentication and notifications
+- [ ] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 4:** Two-factor authentication and notifications
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Two-factor Autentication Function
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Two-factor Autentication Template
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Notification Template
@@ -98,7 +98,7 @@
 🟢- Low
 <br></h5> -->
 
-## :book
+## :book: Document
 
 - [Document](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/images/Documentação.pdf)
 
