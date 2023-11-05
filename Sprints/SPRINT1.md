@@ -2,14 +2,6 @@
 
 The objective of this Sprint was develop the job vacancy registration with automated CHA description, integrated with ChatGPT API, and start the intelligence artificial modeling to match the candidates.
 
- <!-- ## :page_with_curl: Backlog da Sprint 1
-<h1 align="center"><img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-1/Imagens/backlog_sprint1.png" width="45%"></h1>
-
-<h5 align="center">Prioridade:<br>
-🔴- Alta,
-🟡- Média,
-🟢- Baixa.<br></h5> -->
-
 ## :page_with_curl: Sprint 1 Backlog
 
 - [X] Template of Job Registration

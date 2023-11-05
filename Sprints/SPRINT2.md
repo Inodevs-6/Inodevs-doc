@@ -1,14 +1,6 @@
 # Sprint 2
 
-The objective of Sprint was to develop Candidate Ranking. This functionality involves a list of all vacancies registered in the company. From each position job, we generate a ranking of the 8 best candidates, classified by percentage and we also add new improvements to the load register, thus enabling users to improve and edit their searches on Chatgpt
-
- <!-- ## :page_with_curl: Backlog da Sprint 1
-<h1 align="center"><img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-1/Imagens/backlog_sprint1.png" width="45%"></h1>
-
-<h5 align="center">Prioridade:<br>
-🔴- Alta,
-🟡- Média,
-🟢- Baixa.<br></h5> -->
+The objective of Sprint was to develop Candidate Ranking. This functionality involves a list of all positions job registered in the company. From each position job, we generate a ranking of the 8 best candidates, classified by percentage and we also add new improvements to the load register, thus enabling users to improve and edit their searches on Chatgpt.
 
 ## :page_with_curl: Sprint 2 Backlog
 

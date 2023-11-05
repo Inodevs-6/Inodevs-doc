@@ -1,22 +1,14 @@
 # Sprint 3
 
-[todo]
-
- <!-- ## :page_with_curl: Backlog da Sprint 1
-<h1 align="center"><img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/Sprint-1/Imagens/backlog_sprint1.png" width="45%"></h1>
-
-<h5 align="center">Prioridade:<br>
-🔴- Alta,
-🟡- Média,
-🟢- Baixa.<br></h5> -->
+The objective of Sprint was to allow the user (company) to register and authenticate in the system. Thus, the company can, after authentication, view your data and update it and see your position registrations with percentage matching in the ranking.
 
 ## :page_with_curl: Sprint 3 Backlog
 
-- [x] Company registration, autentication and settings
 - [x] Company Autentication
 - [x] Login Template
 - [x] Company Registration Database
-- [x] Settings Security Panel
+- [x] Company Registration Template
+- [x] View and Update Company Data
 
 ## :iphone: Front-end
 
@@ -34,7 +26,7 @@
 
 ## :arrow_forward: Execution
 
-### Candidates ranking using match percentage
+### Company registration and authentication
 
 <img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/images/execution-sprint3.gif" width="90%">
 
