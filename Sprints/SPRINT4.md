@@ -1,6 +1,6 @@
 # Sprint 4
 
-The objective of the sprint was to show users notifications (of formalized match, which are the 8 most suitable candidates ranked and of CHA description generated, of the requested vacancy), for a more positive experience, perform two-factor authentication that adds a additional layer of protection and enabling password reset if forgotten.
+The objective of the sprint was to display notifications to users, including formalized match notifications that rank the top 8 most suitable candidates and CHA (Competencies, Skills, and Attributes) descriptions generated for the requested position. This aims to create a more positive user experience. Additionally, the sprint focused on implementing two-factor authentication to add an extra layer of protection and enabling password reset functionality in case of forgotten passwords.
 
 ## :page_with_curl: Sprint 4 Backlog
 
