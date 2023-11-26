@@ -22,7 +22,7 @@
 - [x] [Sprint 1](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT1.md) - 04/09 - 24/09
 - [x] [Sprint 2](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT2.md) - 25/09 - 15/10
 - [x] [Sprint 3](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT3.md) - 16/10 - 05/11
-- [ ] [Sprint 4](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT4.mdt) - 06/11 - 26/11
+- [x] [Sprint 4](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/SPRINT4.md) - 06/11 - 26/11
 - [ ] Solutions Fair - 12/12
 
 ## :dart: Proposal
@@ -85,12 +85,12 @@
 - [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Company Registration Database
 - [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Company Registration Template
 - [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) View and Update Company Data
-- [ ] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 4:** Notifications and two-factor authentication
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Results Notification
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Request Notification
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Two-factor Autentication
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Notification Template
-
+- [X] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 4:** Notifications and two-factor authentication
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Results Notification
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Request Notification
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Two-factor Autentication
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Notification Template
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Forgotten Password Reset
 
 <!-- <h5 align="center">Priority:<br>
 🔴- High,
