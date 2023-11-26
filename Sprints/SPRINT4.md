@@ -8,11 +8,11 @@ The objective of the sprint was to show users notifications (of formalized match
 - [x] Request Notification
 - [x] Two-factor Autentication
 - [x] Notification Template
-- [x] View and Update Company Data
+- [x] Forgotten password reset
 
 ## :iphone: Front-end
 
-- [Click here to access the Front-End repository in Second Sprint](https://github.com/inodevs-6/Inodevs-front-vue/releases/tag/v3.0)
+- [Click here to access the Front-End repository in Second Sprint](https://github.com/inodevs-6/Inodevs-front-vue/releases/tag/v4.0)
 
 ## :gear: Back-end (Python)
 
@@ -20,17 +20,17 @@ The objective of the sprint was to show users notifications (of formalized match
 
 ## :gear: Back-end (Spring)
 
-> [Click here to access the Back-End Spring repository in second Sprint](https://github.com/inodevs-6/Inodevs-back-spring/releases/tag/v3.0)
+> [Click here to access the Back-End Spring repository in second Sprint](https://github.com/inodevs-6/Inodevs-back-spring/releases/tag/v4.0)
 
 ##
 
 ## :arrow_forward: Execution
 
-### Company registration and authentication
+### Notification, Two-Factor Authentication and Forgotten Password Reset
 
-<img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/images/execution-sprint3.gif" width="90%">
+<img src = "https://github.com/inodevs-5/Reportify_Doc/blob/main/images/execution-sprint4.gif" width="90%">
 
-> [Click here to watch the execution better](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/images/execution-sprint3.gif)
+> [Click here to watch the execution better](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/images/execution-sprint4.gif)
 
 ## :mortar_board: Dev Team
 
