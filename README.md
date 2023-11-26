@@ -64,7 +64,7 @@
 | Sprint 1 | Job position registration with automated CHA description |
 | Sprint 2 | Candidates ranking using match percentage                |
 | Sprint 3 | Company registration and authentication                  |
-| Sprint 4 | Two-factor authentication and notifications              |
+| Sprint 4 | Notifications and two-factor authentication              |
 
 ## Product Backlog
 

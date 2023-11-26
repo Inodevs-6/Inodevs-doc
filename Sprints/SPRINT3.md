@@ -12,15 +12,15 @@ The objective of Sprint was to allow the user (company) to register and authenti
 
 ## :iphone: Front-end
 
-- [Click here to access the Front-End repository in Second Sprint](https://github.com/inodevs-6/Inodevs-front-vue/releases/tag/v3.0)
+- [Click here to access the Front-End repository in Third Sprint](https://github.com/inodevs-6/Inodevs-front-vue/releases/tag/v3.0)
 
 ## :gear: Back-end (Python)
 
-- [Click here to access the Back-End Machine Learning repository in Second Sprint](https://github.com/inodevs-6/Inodevs-back-machine-learning/releases/tag/v3.0)
+- [Click here to access the Back-End Machine Learning repository in Third Sprint](https://github.com/inodevs-6/Inodevs-back-machine-learning/releases/tag/v3.0)
 
 ## :gear: Back-end (Spring)
 
-> [Click here to access the Back-End Spring repository in second Sprint](https://github.com/inodevs-6/Inodevs-back-spring/releases/tag/v3.0)
+> [Click here to access the Back-End Spring repository in Third Sprint](https://github.com/inodevs-6/Inodevs-back-spring/releases/tag/v3.0)
 
 ##
 
