@@ -32,6 +32,16 @@ The objective of the sprint was to display notifications to users, including for
 
 > [Click here to watch the execution better](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/images/execution-sprint4.gif)
 
+## :book: User Storys
+
+#### ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Notification
+
+I, as a <strong>recruiter</strong>, <strong>wish</strong> to receive relevant and timely notifications regarding the progress of my activities in the recruitment and candidate selection process. <strong>This</strong> will keep me informed of important updates and other crucial information for the recruitment process.
+
+### ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Two-factor Autentication
+
+I, as a <strong>recruiter</strong>, <strong>wish</strong> for an additional layer of security through Two-Factor Authentication (2FA). <strong>This</strong> will allow me to safeguard my access to the job system and ensure the security of confidential information related to recruitment
+
 ## :mortar_board: Dev Team
 
 | Student                              | Function         | GitHub                                                          | LinkedIn                                                                                         |

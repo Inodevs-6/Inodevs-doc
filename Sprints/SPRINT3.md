@@ -32,6 +32,24 @@ The objective of Sprint was to allow the user (company) to register and authenti
 
 > [Click here to watch the execution better](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/images/execution-sprint3.gif)
 
+## :book: User Storys
+
+#### ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Company Registration
+
+I, as a <strong>representative of a new company</strong>, <strong>want</strong> to register my company in the job system. <strong>This</strong> will allow me to access the platform, post job openings, and find qualified candidates."
+
+#### ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Login
+
+I, as an <strong>authorized representative</strong> of the registered company, <strong>wish</strong> to access the job system through a secure login. <strong>This</strong> will enable me to manage published job openings, review applications, and view the candidate ranking system.
+
+#### ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) View and Update Job Data
+
+I, as a <strong>recruiter </strong>, <strong>wish</strong> to be able to edit the already registered job openings in the system and conduct new searches for qualified candidates. <strong>This</strong> will allow me to adjust job details as needed, enhance employment opportunities, and find ideal candidates for the open positions.
+
+#### ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) View and Update Company Data
+
+I, as a <strong>recruiter</strong>, <strong>wish</strong> to have the ability to view and update the information on my profile in the system. <strong>This</strong> will provide crucial details about my company, offering me the opportunity to edit and maintain accurate information.
+
 ## :mortar_board: Dev Team
 
 | Student                              | Function         | GitHub                                                          | LinkedIn                                                                                         |

@@ -31,6 +31,16 @@ The objective of Sprint was to develop Candidate Ranking. This functionality inv
 
 > [Click here to watch the execution better](https://github.com/Inodevs-6/Inodevs-doc/blob/main/Sprints/images/execution-sprint2.gif)
 
+## :book: User Storys
+
+#### ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Position Registrations List Template
+
+I, as a <strong>recruiter</strong>, <strong>want</strong> to have access to a list of registered job openings so that I can view basic information about each position. Upon clicking on a specific job opening, I <strong>aim</strong> to be redirected to a page displaying the candidate rankings for the clicked vacancy
+
+#### ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Match between position and candidates with its match percentage
+
+As a <strong>recruiters</strong> for the company, I <strong>would</strong> like to have an automatic rating system that classifies resumes based on their level of correspondence with the job requirements. This <strong>would</strong> enable us to prioritize the most suitable candidates and efficiently identify the best talents for our job opportunities.
+
 ## :mortar_board: Dev Team
 
 | Student                              | Function         | GitHub                                                          | LinkedIn                                                                                         |
